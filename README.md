@@ -15,7 +15,7 @@ Python3/pypy3 and PyGobject
 install PyGobject and then python3 Board_Gui.py
 
 ### Example
-![](Example.png)
+![](example.png)
 
 ### Prerequisites
 
